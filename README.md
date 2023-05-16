@@ -33,4 +33,8 @@ Gostaria de agradecer a oportunidade de participar desta etapa e processo seleti
 Muito obrigado.
 
 
-Foram utilizadas como ferramentas para esta análise, Python, ChatGPT e Google Spreadsheets.
+Foram utilizadas como ferramentas para esta análise:
+
+ - Python
+ - ChatGPT 
+ - Google Spreadsheets
