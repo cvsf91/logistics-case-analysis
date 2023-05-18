@@ -16,7 +16,7 @@ Com base nestes registros, identifica-se um índice consirável de vendas na reg
 
 <img src="./average_shipment_cost_graph.jpg" height="350px">
 
-Com este fato em vista, uma possibilidade que poderia ser vantajosa seria a criação de um centro de distruibuição focado nesta região mas não se limitando-a, também considerando que viabilizaria a baixa nos custos de frete também em alguns estados do Norte como Pará, Tocantins e Roraima e também visando reduzir o tempo de entrega e aumentar a eficiência. Uma opção que poderia ser considerada nessa escolha, seria posicionar este centro em cidades como Feira de Santana, na Bahia, que fica próxima as principais rodovias da região e possui fácil acesso as regiões de Salvador e Aratu.
+Com este fato em vista, uma possibilidade que poderia ser vantajosa seria a criação de um centro de distruibuição focado nesta região mas não se limitando-a, também considerando que viabilizaria a baixa nos custos de frete também em alguns estados do Norte como Pará, Tocantins e Amapá e também visando reduzir o tempo de entrega e aumentar a eficiência. Uma opção que poderia ser considerada nessa escolha, seria posicionar este centro em cidades como Feira de Santana, na Bahia, que fica próxima as principais rodovias da região e possui fácil acesso as regiões de Salvador e Aratu.
 
 ### Sul
 
